@@ -1,0 +1,12 @@
+# Azure Data Lake
+datalake:
+  account_url: "<your-storage-account-url>"
+  file_system_name: "<your-file-system-name>"
+  directory_name: "<your-directory-name>"
+
+# Azure Synapse
+synapse:
+  workspace_name: "<your-workspace-name>"
+  sql_admin_login_user: "<your-login-user>"
+  sql_admin_login_password: "<your-login-password>"
+  synapse_sql_endpoint: "<your-sql-endpoint>"
